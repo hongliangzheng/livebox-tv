@@ -1,0 +1,1844 @@
+{
+ "generated_at": 1794061396,
+ "source": "vbskycn/iptv iptv4.m3u (主) + Guovin/iptv-api (补缺，逐个实测)",
+ "categories": [
+  {
+   "id": 1,
+   "name": "央视",
+   "en_name": "",
+   "logo": "",
+   "sort": 1
+  },
+  {
+   "id": 2,
+   "name": "卫视",
+   "en_name": "",
+   "logo": "",
+   "sort": 2
+  },
+  {
+   "id": 3,
+   "name": "地方",
+   "en_name": "",
+   "logo": "",
+   "sort": 3
+  },
+  {
+   "id": 4,
+   "name": "纪录",
+   "en_name": "",
+   "logo": "",
+   "sort": 4
+  },
+  {
+   "id": 5,
+   "name": "少儿",
+   "en_name": "",
+   "logo": "",
+   "sort": 5
+  },
+  {
+   "id": 6,
+   "name": "体育",
+   "en_name": "",
+   "logo": "",
+   "sort": 6
+  },
+  {
+   "id": 7,
+   "name": "音乐",
+   "en_name": "",
+   "logo": "",
+   "sort": 7
+  },
+  {
+   "id": 8,
+   "name": "数字",
+   "en_name": "",
+   "logo": "",
+   "sort": 8
+  },
+  {
+   "id": 9,
+   "name": "解说",
+   "en_name": "",
+   "logo": "",
+   "sort": 9
+  },
+  {
+   "id": 10,
+   "name": "电影（默认隐藏）",
+   "en_name": "",
+   "logo": "",
+   "sort": 10
+  },
+  {
+   "id": 11,
+   "name": "春晚（默认隐藏）",
+   "en_name": "",
+   "logo": "",
+   "sort": 11
+  }
+ ],
+ "channels": [
+  {
+   "id": 1,
+   "name": "CCTV-1",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 1,
+   "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-1.png",
+   "level": 0,
+   "category_bits": 1,
+   "category_ids": [
+    1
+   ],
+   "epg_id": "CCTV1",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 1,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226773/1.m3u8",
+    "http://27.148.240.185/PLTV/88888888/224/3221227263/1.m3u8",
+    "http://27.148.240.185/PLTV/88888888/224/3221227267/1.m3u8",
+    "http://27.148.240.185/PLTV/88888888/224/3221226914/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 12621
+  },
+  {
+   "id": 2,
+   "name": "CCTV-10",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 2,
+   "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-10.png",
+   "level": 0,
+   "category_bits": 1,
+   "category_ids": [
+    1
+   ],
+   "epg_id": "CCTV10",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 13,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226779/1.m3u8",
+    "http://27.148.240.185/PLTV/88888888/224/3221227356/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 13075
+  },
+  {
+   "id": 3,
+   "name": "CCTV-11",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 3,
+   "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-11.png",
+   "level": 0,
+   "category_bits": 1,
+   "category_ids": [
+    1
+   ],
+   "epg_id": "CCTV11",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 15,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226888/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11757
+  },
+  {
+   "id": 4,
+   "name": "CCTV-14",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 4,
+   "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-14.png",
+   "level": 0,
+   "category_bits": 1,
+   "category_ids": [
+    1
+   ],
+   "epg_id": "CCTV14",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 21,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226762/1.m3u8",
+    "http://27.148.240.185/PLTV/88888888/224/3221227351/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11959
+  },
+  {
+   "id": 5,
+   "name": "CCTV-2",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 5,
+   "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-2.png",
+   "level": 0,
+   "category_bits": 1,
+   "category_ids": [
+    1
+   ],
+   "epg_id": "CCTV2",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 2,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226788/1.m3u8",
+    "http://27.148.240.185/PLTV/88888888/224/3221227321/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11978
+  },
+  {
+   "id": 6,
+   "name": "CCTV-3",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 6,
+   "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-3.png",
+   "level": 0,
+   "category_bits": 1,
+   "category_ids": [
+    1
+   ],
+   "epg_id": "CCTV3",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 3,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227317/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11299
+  },
+  {
+   "id": 7,
+   "name": "CCTV-4",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 7,
+   "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-4.png",
+   "level": 0,
+   "category_bits": 1,
+   "category_ids": [
+    1
+   ],
+   "epg_id": "CCTV4",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 4,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227331/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11964
+  },
+  {
+   "id": 8,
+   "name": "CCTV-4K",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 8,
+   "logo": "https://tb.zbds.top/logo/CCTV4K.png",
+   "level": 0,
+   "category_bits": 1,
+   "category_ids": [
+    1
+   ],
+   "epg_id": "CCTV4K",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 5,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227333/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 20353
+  },
+  {
+   "id": 9,
+   "name": "CCTV-5+",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 9,
+   "logo": "https://tb.zbds.top/logo/CCTV5+.png",
+   "level": 0,
+   "category_bits": 1,
+   "category_ids": [
+    1
+   ],
+   "epg_id": "CCTV-5+",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 7,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227095/1.m3u8",
+    "http://27.148.240.185/PLTV/88888888/224/3221226850/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 12437
+  },
+  {
+   "id": 10,
+   "name": "CCTV-6",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 10,
+   "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-6.png",
+   "level": 0,
+   "category_bits": 1,
+   "category_ids": [
+    1
+   ],
+   "epg_id": "CCTV6",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 8,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227124/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11841
+  },
+  {
+   "id": 11,
+   "name": "CCTV-7",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 11,
+   "logo": "https://i.imgur.com/CKcPMQC.png",
+   "level": 0,
+   "category_bits": 1,
+   "category_ids": [
+    1
+   ],
+   "epg_id": "CCTV7",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 9,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226780/1.m3u8",
+    "http://27.148.240.185/PLTV/88888888/224/3221227258/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11955
+  },
+  {
+   "id": 12,
+   "name": "CCTV-9",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 12,
+   "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-9.png",
+   "level": 0,
+   "category_bits": 1,
+   "category_ids": [
+    1
+   ],
+   "epg_id": "CCTV9",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 11,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227343/1.m3u8",
+    "http://27.148.240.185/PLTV/88888888/224/3221226849/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 12180
+  },
+  {
+   "id": 13,
+   "name": "CCTV12",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 13,
+   "logo": "https://tb.zbds.top/logo/CCTV12.png",
+   "level": 0,
+   "category_bits": 1,
+   "category_ids": [
+    1
+   ],
+   "epg_id": "CCTV12",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 17,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226792/1.m3u8",
+    "http://27.148.240.185/PLTV/88888888/224/3221227347/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 12701
+  },
+  {
+   "id": 14,
+   "name": "CCTV13",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 14,
+   "logo": "https://tb.zbds.top/logo/CCTV13.png",
+   "level": 0,
+   "category_bits": 1,
+   "category_ids": [
+    1
+   ],
+   "epg_id": "CCTV13",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 19,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226769/1.m3u8",
+    "http://27.148.240.185/PLTV/88888888/224/3221227313/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11988
+  },
+  {
+   "id": 15,
+   "name": "CCTV15",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 15,
+   "logo": "https://tb.zbds.top/logo/CCTV15.png",
+   "level": 0,
+   "category_bits": 1,
+   "category_ids": [
+    1
+   ],
+   "epg_id": "CCTV15",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 23,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226775/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 12467
+  },
+  {
+   "id": 16,
+   "name": "CCTV16",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 16,
+   "logo": "https://tb.zbds.top/logo/CCTV16.png",
+   "level": 0,
+   "category_bits": 1,
+   "category_ids": [
+    1
+   ],
+   "epg_id": "CCTV16",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 24,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227352/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 9901
+  },
+  {
+   "id": 17,
+   "name": "CCTV17",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 17,
+   "logo": "https://tb.zbds.top/logo/CCTV17.png",
+   "level": 0,
+   "category_bits": 1,
+   "category_ids": [
+    1
+   ],
+   "epg_id": "CCTV-17",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 26,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227055/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11796
+  },
+  {
+   "id": 18,
+   "name": "CCTV5",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 18,
+   "logo": "https://tb.zbds.top/logo/CCTV5.png",
+   "level": 0,
+   "category_bits": 1,
+   "category_ids": [
+    1
+   ],
+   "epg_id": "CCTV5",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 6,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227254/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11700
+  },
+  {
+   "id": 19,
+   "name": "CCTV8",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 19,
+   "logo": "https://tb.zbds.top/logo/CCTV8.png",
+   "level": 0,
+   "category_bits": 1,
+   "category_ids": [
+    1
+   ],
+   "epg_id": "CCTV8",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 10,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227348/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11472
+  },
+  {
+   "id": 20,
+   "name": "CGTN",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 20,
+   "logo": "https://tb.zbds.top/logo/CGTN.png",
+   "level": 0,
+   "category_bits": 1,
+   "category_ids": [
+    1
+   ],
+   "epg_id": "CGTN",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 16,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226822/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11895
+  },
+  {
+   "id": 21,
+   "name": "CGTN俄语",
+   "channel_code": 21,
+   "logo": "",
+   "epg_id": "cgtn俄语",
+   "category_ids": [
+    1
+   ],
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227278/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11310
+  },
+  {
+   "id": 22,
+   "name": "CGTN法语",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 22,
+   "logo": "https://tb.zbds.top/logo/CGTN法语.png",
+   "level": 0,
+   "category_bits": 1,
+   "category_ids": [
+    1
+   ],
+   "epg_id": "CGTN法语",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 18,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227380/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11340
+  },
+  {
+   "id": 23,
+   "name": "三沙卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 23,
+   "logo": "https://www.xn--rgv465a.top/tvlogo/三沙卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "三沙卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 450,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227072/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11903
+  },
+  {
+   "id": 24,
+   "name": "东南卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 24,
+   "logo": "https://tb.zbds.top/logo/东南卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "东南卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 32,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226754/1.m3u8",
+    "http://27.148.240.185/PLTV/88888888/224/3221227363/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 15340
+  },
+  {
+   "id": 25,
+   "name": "东方卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 25,
+   "logo": "https://tb.zbds.top/logo/东方卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "东方卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 31,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227281/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11882
+  },
+  {
+   "id": 26,
+   "name": "云南卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 26,
+   "logo": "https://www.xn--rgv465a.top/tvlogo/云南卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "云南卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 452,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226900/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11405
+  },
+  {
+   "id": 27,
+   "name": "兵团卫视",
+   "channel_code": 27,
+   "logo": "",
+   "epg_id": "兵团卫视",
+   "category_ids": [
+    2
+   ],
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227335/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11543
+  },
+  {
+   "id": 28,
+   "name": "凤凰卫视中文台",
+   "channel_code": 28,
+   "logo": "",
+   "epg_id": "凤凰卫视中文台",
+   "category_ids": [
+    2
+   ],
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226980/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11914
+  },
+  {
+   "id": 29,
+   "name": "凤凰卫视资讯台",
+   "channel_code": 29,
+   "logo": "",
+   "epg_id": "凤凰卫视资讯台",
+   "category_ids": [
+    2
+   ],
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226929/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11941
+  },
+  {
+   "id": 30,
+   "name": "北京卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 30,
+   "logo": "https://www.xn--rgv465a.top/tvlogo/北京卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "北京卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 442,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227234/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 12299
+  },
+  {
+   "id": 31,
+   "name": "北京卫视4K",
+   "channel_code": 31,
+   "logo": "",
+   "epg_id": "北京卫视",
+   "category_ids": [
+    2
+   ],
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227310/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 18562
+  },
+  {
+   "id": 32,
+   "name": "厦门卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 32,
+   "logo": "https://www.xn--rgv465a.top/tvlogo/厦门卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "厦门卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 453,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226744/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 4414
+  },
+  {
+   "id": 33,
+   "name": "吉林卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 33,
+   "logo": "https://www.xn--rgv465a.top/tvlogo/吉林卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "吉林卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 448,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227273/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11896
+  },
+  {
+   "id": 34,
+   "name": "四川卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 34,
+   "logo": "https://tb.zbds.top/logo/四川卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "四川卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 45,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227289/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 12441
+  },
+  {
+   "id": 35,
+   "name": "天津卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 35,
+   "logo": "https://www.xn--rgv465a.top/tvlogo/天津卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "天津卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 451,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227222/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11817
+  },
+  {
+   "id": 36,
+   "name": "宁夏卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 36,
+   "logo": "https://tb.zbds.top/logo/宁夏卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "宁夏卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 40,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227305/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 10948
+  },
+  {
+   "id": 37,
+   "name": "安徽卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 37,
+   "logo": "https://tb.zbds.top/logo/安徽卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "安徽卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 30,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227301/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11508
+  },
+  {
+   "id": 38,
+   "name": "山东卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 38,
+   "logo": "https://tb.zbds.top/logo/山东卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "山东卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 41,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227300/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 12466
+  },
+  {
+   "id": 39,
+   "name": "山西卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 39,
+   "logo": "https://tb.zbds.top/logo/山西卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "山西卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 42,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227323/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 10060
+  },
+  {
+   "id": 40,
+   "name": "广东卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 40,
+   "logo": "https://tb.zbds.top/logo/广东卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "广东卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 34,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227218/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 12202
+  },
+  {
+   "id": 41,
+   "name": "广东卫视4K",
+   "channel_code": 41,
+   "logo": "",
+   "epg_id": "广东卫视",
+   "category_ids": [
+    2
+   ],
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227404/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 15469
+  },
+  {
+   "id": 42,
+   "name": "广西卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 42,
+   "logo": "https://www.xn--rgv465a.top/tvlogo/广西卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "广西卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 445,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227328/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11706
+  },
+  {
+   "id": 43,
+   "name": "新疆卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 43,
+   "logo": "https://tb.zbds.top/logo/新疆卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "新疆卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 47,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227332/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11723
+  },
+  {
+   "id": 44,
+   "name": "江苏卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 44,
+   "logo": "https://tb.zbds.top/logo/江苏卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "江苏卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 37,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227312/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11953
+  },
+  {
+   "id": 45,
+   "name": "江西卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 45,
+   "logo": "https://tb.zbds.top/logo/江西卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "江西卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 38,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227304/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 10611
+  },
+  {
+   "id": 46,
+   "name": "河北卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 46,
+   "logo": "https://www.xn--rgv465a.top/tvlogo/河北卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "河北卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 446,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227316/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11779
+  },
+  {
+   "id": 47,
+   "name": "河南卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 47,
+   "logo": "https://www.xn--rgv465a.top/tvlogo/河南卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "河南卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 447,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227308/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 10847
+  },
+  {
+   "id": 48,
+   "name": "浙江卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 48,
+   "logo": "https://tb.zbds.top/logo/浙江卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "浙江卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 49,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227226/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 12071
+  },
+  {
+   "id": 49,
+   "name": "海南卫视",
+   "channel_code": 49,
+   "logo": "",
+   "epg_id": "海南卫视",
+   "category_ids": [
+    2
+   ],
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226830/1.m3u8",
+    "http://27.148.240.185/PLTV/88888888/224/3221227320/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11999
+  },
+  {
+   "id": 50,
+   "name": "海峡卫视",
+   "channel_code": 50,
+   "logo": "",
+   "epg_id": "海峡卫视",
+   "category_ids": [
+    2
+   ],
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226748/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 10311
+  },
+  {
+   "id": 51,
+   "name": "深圳卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 51,
+   "logo": "https://tb.zbds.top/logo/深圳卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "深圳卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 44,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227285/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11437
+  },
+  {
+   "id": 52,
+   "name": "深圳卫视4K",
+   "channel_code": 52,
+   "logo": "",
+   "epg_id": "深圳卫视",
+   "category_ids": [
+    2
+   ],
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227408/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 13386
+  },
+  {
+   "id": 53,
+   "name": "湖北卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 53,
+   "logo": "https://www.xn--rgv465a.top/tvlogo/湖北卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "湖北卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 443,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227230/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11812
+  },
+  {
+   "id": 54,
+   "name": "湖南卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 54,
+   "logo": "https://tb.zbds.top/logo/湖南卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "湖南卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 36,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227238/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11538
+  },
+  {
+   "id": 55,
+   "name": "甘肃卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 55,
+   "logo": "https://tb.zbds.top/logo/甘肃卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "甘肃卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 33,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227246/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11767
+  },
+  {
+   "id": 56,
+   "name": "西藏卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 56,
+   "logo": "https://tb.zbds.top/logo/西藏卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "西藏卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 46,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227344/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11724
+  },
+  {
+   "id": 57,
+   "name": "贵州卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 57,
+   "logo": "https://tb.zbds.top/logo/贵州卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "贵州卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 35,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227277/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11599
+  },
+  {
+   "id": 58,
+   "name": "辽宁卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 58,
+   "logo": "https://tb.zbds.top/logo/辽宁卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "辽宁卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 39,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227242/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 12298
+  },
+  {
+   "id": 59,
+   "name": "重庆卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 59,
+   "logo": "https://www.xn--rgv465a.top/tvlogo/重庆卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "重庆卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 444,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227293/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11737
+  },
+  {
+   "id": 60,
+   "name": "青海卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 60,
+   "logo": "https://www.xn--rgv465a.top/tvlogo/青海卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "青海卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 449,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227327/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 10865
+  },
+  {
+   "id": 61,
+   "name": "黑龙江卫视",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 61,
+   "logo": "https://tb.zbds.top/logo/黑龙江卫视.png",
+   "level": 0,
+   "category_bits": 2,
+   "category_ids": [
+    2
+   ],
+   "epg_id": "黑龙江卫视",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 52,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227319/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11218
+  },
+  {
+   "id": 62,
+   "name": "中国天气",
+   "channel_code": 62,
+   "logo": "",
+   "epg_id": "中国天气",
+   "category_ids": [
+    3
+   ],
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226861/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11756
+  },
+  {
+   "id": 63,
+   "name": "中国教育1台",
+   "channel_code": 63,
+   "logo": "",
+   "epg_id": "中国教育1台",
+   "category_ids": [
+    3
+   ],
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226912/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 13246
+  },
+  {
+   "id": 64,
+   "name": "中国教育2台",
+   "channel_code": 64,
+   "logo": "",
+   "epg_id": "中国教育2台",
+   "category_ids": [
+    3
+   ],
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226840/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 4450
+  },
+  {
+   "id": 65,
+   "name": "中国教育4台",
+   "channel_code": 65,
+   "logo": "",
+   "epg_id": "中国教育4台",
+   "category_ids": [
+    3
+   ],
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227075/1.m3u8",
+    "http://27.148.240.185/PLTV/88888888/224/3221227084/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 10798
+  },
+  {
+   "id": 66,
+   "name": "健身频道",
+   "channel_code": 66,
+   "logo": "",
+   "epg_id": "健身频道",
+   "category_ids": [
+    3
+   ],
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226845/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11602
+  },
+  {
+   "id": 67,
+   "name": "华数电视剧",
+   "channel_code": 67,
+   "logo": "",
+   "epg_id": "华数电视剧",
+   "category_ids": [
+    3
+   ],
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226772/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 3935
+  },
+  {
+   "id": 68,
+   "name": "华数经典电影",
+   "channel_code": 68,
+   "logo": "",
+   "epg_id": "华数经典电影",
+   "category_ids": [
+    3
+   ],
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227132/1.m3u8",
+    "http://27.148.240.185/PLTV/88888888/224/3221226758/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 3960
+  },
+  {
+   "id": 69,
+   "name": "华数老电影",
+   "channel_code": 69,
+   "logo": "",
+   "epg_id": "华数老电影",
+   "category_ids": [
+    3
+   ],
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226892/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 3917
+  },
+  {
+   "id": 70,
+   "name": "卡酷少儿",
+   "channel_code": 70,
+   "logo": "",
+   "epg_id": "卡酷少儿",
+   "category_ids": [
+    3
+   ],
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226916/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 4452
+  },
+  {
+   "id": 71,
+   "name": "嘉佳卡通",
+   "channel_code": 71,
+   "logo": "",
+   "epg_id": "嘉佳卡通",
+   "category_ids": [
+    3
+   ],
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226890/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 4638
+  },
+  {
+   "id": 72,
+   "name": "家有购物",
+   "channel_code": 72,
+   "logo": "",
+   "epg_id": "家有购物",
+   "category_ids": [
+    3
+   ],
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226853/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 4726
+  },
+  {
+   "id": 73,
+   "name": "百视TV",
+   "channel_code": 73,
+   "logo": "",
+   "epg_id": "bestv",
+   "category_ids": [
+    3
+   ],
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227040/1.m3u8",
+    "http://27.148.240.185/PLTV/88888888/224/3221227044/1.m3u8",
+    "http://27.148.240.185/PLTV/88888888/224/3221227005/1.m3u8",
+    "http://27.148.240.185/PLTV/88888888/224/3221227039/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11640
+  },
+  {
+   "id": 74,
+   "name": "福建公共",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 74,
+   "logo": "https://tb.zbds.top/logo/福建公共.png",
+   "level": 0,
+   "category_bits": 4,
+   "category_ids": [
+    3
+   ],
+   "epg_id": "福建公共",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 320,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226928/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 10978
+  },
+  {
+   "id": 75,
+   "name": "福建少儿",
+   "channel_code": 75,
+   "logo": "",
+   "epg_id": "福建少儿",
+   "category_ids": [
+    3
+   ],
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226738/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 10518
+  },
+  {
+   "id": 76,
+   "name": "福建教育",
+   "channel_code": 76,
+   "logo": "",
+   "epg_id": "福建教育",
+   "category_ids": [
+    3
+   ],
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226884/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 10290
+  },
+  {
+   "id": 77,
+   "name": "福建文体",
+   "channel_code": 77,
+   "logo": "",
+   "epg_id": "福建文体",
+   "category_ids": [
+    3
+   ],
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226749/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 9457
+  },
+  {
+   "id": 78,
+   "name": "福建新闻",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 78,
+   "logo": "https://tb.zbds.top/logo/福建新闻.png",
+   "level": 0,
+   "category_bits": 4,
+   "category_ids": [
+    3
+   ],
+   "epg_id": "福建新闻",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 321,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226736/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11368
+  },
+  {
+   "id": 79,
+   "name": "福建旅游",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 79,
+   "logo": "https://tb.zbds.top/logo/福建旅游.png",
+   "level": 0,
+   "category_bits": 4,
+   "category_ids": [
+    3
+   ],
+   "epg_id": "福建旅游",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 322,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226854/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11832
+  },
+  {
+   "id": 80,
+   "name": "福建电视剧",
+   "channel_code": 80,
+   "logo": "",
+   "epg_id": "福建电视剧",
+   "category_ids": [
+    3
+   ],
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226732/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 10237
+  },
+  {
+   "id": 81,
+   "name": "福建经济",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 81,
+   "logo": "https://tb.zbds.top/logo/福建经济.png",
+   "level": 0,
+   "category_bits": 4,
+   "category_ids": [
+    3
+   ],
+   "epg_id": "福建经济",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 323,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226920/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 10777
+  },
+  {
+   "id": 82,
+   "name": "福建综合",
+   "channel_code": 82,
+   "logo": "",
+   "epg_id": "福建综合",
+   "category_ids": [
+    3
+   ],
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226722/1.m3u8",
+    "http://27.148.240.185/PLTV/88888888/224/3221226745/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11409
+  },
+  {
+   "id": 83,
+   "name": "金鹰纪实",
+   "channel_code": 83,
+   "logo": "",
+   "epg_id": "金鹰纪实",
+   "category_ids": [
+    3
+   ],
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221226950/1.m3u8",
+    "http://27.148.240.185/PLTV/88888888/224/3221227250/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11884
+  },
+  {
+   "id": 84,
+   "name": "CGTN纪录",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 84,
+   "logo": "https://tb.zbds.top/logo/CGTN纪录.png",
+   "level": 0,
+   "category_bits": 8,
+   "category_ids": [
+    4
+   ],
+   "epg_id": "CGTN纪录",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 384,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227367/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 11832
+  },
+  {
+   "id": 85,
+   "name": "金鹰卡通",
+   "en_name": "",
+   "pinyin": "",
+   "channel_code": 85,
+   "logo": "https://tb.zbds.top/logo/金鹰卡通.png",
+   "level": 0,
+   "category_bits": 16,
+   "category_ids": [
+    5
+   ],
+   "epg_id": "金鹰卡通",
+   "catchup_id": "",
+   "region_id": 0,
+   "area": "",
+   "sort": 140,
+   "urls": [
+    "http://27.148.240.185/PLTV/88888888/224/3221227340/1.m3u8"
+   ],
+   "visible": true,
+   "speed_kbps": 4566
+  }
+ ]
+}
